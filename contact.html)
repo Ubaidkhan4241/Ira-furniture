@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact - IRA Furniture</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h2>IRA Furniture</h2>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="products.html">Products</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<div class="container">
+<h1>Contact Us</h1>
+
+<p>📞 +91 8490052059</p>
+<p>📧 ccirafurniture@gmail.com</p>
+<p>📍 Bharuch, Gujarat</p>
+
+<a class="btn" href="https://wa.me/918490052059">WhatsApp Us</a>
+</div>
+
+<footer>
+© 2026 IRA Furniture
+</footer>
+
+</body>
+</html>
